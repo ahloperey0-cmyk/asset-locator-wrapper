@@ -1,0 +1,20 @@
+{
+  "name": "Asset Locator",
+  "short_name": "Asset Locator",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#011158",
+  "theme_color": "#011158",
+  "icons": [
+    {
+      "src": "https://lh3.googleusercontent.com/d/11gYwCHpC-PfpgHyJsIFb9vq2cdIj6HpV=s400",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/d/11gYwCHpC-PfpgHyJsIFb9vq2cdIj6HpV=s400",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
